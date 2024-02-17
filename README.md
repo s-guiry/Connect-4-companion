@@ -4,6 +4,18 @@
 
 A robot that plays Connect 4 against you!
 
+Demo - https://youtu.be/ltJwjMAux9Y?si=pL9KG4pHP1u2-Cr1
+
+## Roles
+
+Sean - Build the robot
+
+David - Arduino code
+
+Atta - Board image parser
+
+Gavin & Ariel - Minimax algorithm
+
 ## How to Use
 
 1. Clone the repository
